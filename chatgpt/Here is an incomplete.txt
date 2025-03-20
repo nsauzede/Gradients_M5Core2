@@ -1,0 +1,5 @@
+Here is an incomplete c++ file. I want you to add the minimum amount of stubbed classes, stubbed functions, stub macros, and so on, but with no functionalities (eg: don't add std::cout output, calculations etc eg: sin() returns 0, cos() returns 0, random() return 0 etc..), so that it will compile as a basic linux console app.
+include as few headers as possible. do NOT introduce STL nor STD calls.
+I expect the whole original 448 lines to be present unmodified in the output file.
+provide it as a file download.
+do not print comments nor explanation. just the file. I'm going to try and compile and run it, and will iterate back here if there are any error until you fulfill this request without flaw.
